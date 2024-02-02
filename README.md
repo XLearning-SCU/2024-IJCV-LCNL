@@ -7,7 +7,7 @@ LCNL extends the previous work [Learning with Twin Noisy Labels for Visible-Infr
 ## Introduction
 
 ### LCNL framework
-<img src="https://github.com/XLearning-SCU/2024-IJCV-LCNL/blob/main/figs/framework.png"  width="760" height="268" />
+<img src="https://github.com/XLearning-SCU/2024-IJCV-LCNL/blob/main/figs/framework.png"  width="780" height="268" />
 
 ## Requirements
 
